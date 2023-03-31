@@ -1,0 +1,22 @@
+{
+  "name": "simple-react-modal-compnent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seth-nl/simple-react-modal-compnent.git"
+  },
+  "author": "seth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seth-nl/simple-react-modal-compnent/issues"
+  },
+  "homepage": "https://github.com/seth-nl/simple-react-modal-compnent#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
