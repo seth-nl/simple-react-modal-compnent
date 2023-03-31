@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from "react-dom";
-import { Modal } from "./lib";
+import { Modal } from './component/Modal'
 
 const App = () => (
   <div>
